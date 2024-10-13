@@ -1,0 +1,12 @@
+h1{
+    color: peru;
+    font-family: "Times New Roman", Times, serif;
+}
+p{
+    color: whitesmoke;
+    font-family: "Times New Roman", Times, serif; 
+}
+
+body {
+    background: linear-gradient(to right, rgb(27, 23, 23), rgb(5, 5, 45));
+}
